@@ -1,0 +1,5 @@
+{
+  "name": "Refuse Collection Schedule",
+  "description": "A sleek and modern web application to display the weekly and fortnightly refuse collection schedule for a specific household, making it easy to see what's being collected today and tomorrow.",
+  "requestFramePermissions": []
+}
